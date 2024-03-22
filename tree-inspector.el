@@ -3,7 +3,7 @@
 ;; Copyright (C) 2022 - 2023 Free Software Foundation, Inc.
 
 ;; Author: Mariano Montone <marianomontone@gmail.com>
-;; URL: https://github.com/mmontone/emacs-inspector
+;; URL: https://github.com/mmontone/emacs-tree-inspector
 ;; Keywords: debugging, tool, lisp, development
 ;; Version: 0.4
 ;; Package-Requires: ((emacs "27.1") (treeview "1.1.0"))
